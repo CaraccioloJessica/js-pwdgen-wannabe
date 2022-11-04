@@ -1,6 +1,8 @@
 // PASSWORD GENERATOR
 // CHIEDERE NOME ALL'UTENTE
+let nome = prompt('Inserisci il tuo nome');
 
+console.log(nome);
 
 // CHIEDERE COGNOME ALL'UTENTE
 
