@@ -14,7 +14,7 @@ let colore = prompt('Inserisci il tuo colore preferito');
 
 console.log(colore);
 
-// VALORE FISSO
+// VALORE NUM FISSO
 const numeroFisso = 21;
 
 // OUTPUT (PASSWORD GENERATA)
