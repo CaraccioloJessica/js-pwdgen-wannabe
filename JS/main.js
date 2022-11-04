@@ -14,4 +14,8 @@ let colore = prompt('Inserisci il tuo colore preferito');
 
 console.log(colore);
 
-// OUTPUT
+// VALORE FISSO
+const numeroFisso = 21;
+
+// OUTPUT (PASSWORD GENERATA)
+document.getElementById('password').innerHTML = `La tua password è: ${nome}${cognome}${colore}${numeroFisso}`;
